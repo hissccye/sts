@@ -17,6 +17,7 @@ alias buildvnc 'vncserver -geometry 2540x1360'
 
 
 setenv PATH "/usr/local/git/bin:$PATH"
+setenv PATH "/usr/local/git/libexec/git-core:$PATH"
 
 #du -lh --max-depth=1
 #git rebase -i HEAD~2
