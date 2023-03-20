@@ -1,0 +1,10 @@
+# Global define
+DAILY_PATH    = "/root/work/backup-code/sts/histdata/daily/"
+INDEX_PATH    = "/root/work/backup-code/sts/histdata/index/"
+HISTDATA_PATH = "/root/work/backup-code/sts/histdata/stocks/"
+GOLD_PATH     = "/root/work/backup-code/sts/train_db/gold/"
+LOG_PATH      = "/root/work/backup-code/sts/logs/"
+RAWSTOCK_PATH = "/root/work/sts/db/old_data/"
+CONCEPT_PATH  = "/root/work/backup-code/sts/save/concept/"
+RANK_PATH     = "/root/work/backup-code/sts/save/rank/"
+BASIC_PATH    = "/root/work/backup-code/sts/save/daily_basic/"
