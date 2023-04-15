@@ -8,8 +8,6 @@ import sys
 import pandas as pd
 import backtrader as bt
 
-#sys.path.append(os.path.dirname(os.path.abspath(__file__)) + "/../../backup-code/new_sts/")
-#sys.path.append(os.path.dirname(os.path.abspath(__file__)) + "/../../backup-code/sts/")
 import func
 from global_define import *
 
